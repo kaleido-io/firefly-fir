@@ -16,6 +16,8 @@ One paragraph explanation of the feature.
 # Motivation
 [motivation]: #motivation
 
+> REQUIRED SECTION
+
 Why are we doing this? What use cases does it support? What is the expected
 outcome?
 
@@ -24,7 +26,11 @@ outcome?
 
 > REQUIRED SECTION
 
-Insert your diagrams here - we like pictures :-)
+How does it work? What does it do?
+
+For complex changes, we really like pictures :-)
+
+Some detailed ideas:
 
 Explain the proposal as if it was already included in FireFly and you were
 teaching it to another FireFly developer. That generally means:
